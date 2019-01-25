@@ -48,8 +48,7 @@
 			},
 			{
 				"title": "Usage and Special Notes",
-				"description": "1. The Infoblox Integration module, with an output of assigned_ip_address, can be composed with other Terraform configurations which require an IP address as input.<br>2. A functional and reachable Infoblox service is required prior to running this template.<br>3. On deletion, this template will release the IP Address from the Infoblox pool.<br>"
-			}
+				"description": "<ol class=\"list-numbering\"><li>The Infoblox Integration module, with an output of assigned_ip_address, can be composed with other Terraform configurations which require an IP address as input.</li><li>A functional and reachable Infoblox service is required prior to running this template.</li><li>On deletion, this template will release the IP Address from the Infoblox pool.</li></ol>"}
 		],
 		"featuredImageUrl": "",
 		"imageUrl": "",
