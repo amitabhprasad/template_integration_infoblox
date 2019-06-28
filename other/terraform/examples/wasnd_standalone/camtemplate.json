@@ -23,7 +23,6 @@
       }
     },
     "metadata": {
-      "displayName": "IBM WebSphere Network Deployment V9 on a single virtual machine",
       "providerDisplayName": "VMware vSphere",
       "longDescription": "This template deploys a standalone instance of WebSphere Application Server Network Deployment V9 on a Linux virtual machine.",
       "bullets": [{

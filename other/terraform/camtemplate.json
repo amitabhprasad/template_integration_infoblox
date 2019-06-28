@@ -23,7 +23,6 @@
 		}
 	},
 	"metadata": {
-		"displayName": "Infoblox Integration Template",
 		"providerDisplayName": "Other",
 		"longDescription": "This template gets and returns an IP address from Infoblox via camc_scriptpackage",
 		"bullets": [{
