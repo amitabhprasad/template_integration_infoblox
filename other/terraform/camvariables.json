@@ -97,7 +97,7 @@
       "hidden": false,
       "immutable": false,
       "group_name": "infoblox",
-      "default" : "${ipam.infoblox.domain}"
+      "default" : "${infoblox.domain}"
     },
     {
       "name": "configure_for_dns",
@@ -109,7 +109,7 @@
       "hidden": false,
       "immutable": false,
       "group_name": "infoblox",
-      "default" : "${ipam.infoblox.configure_for_dns}"
+      "default" : "${infoblox.configure_for_dns}"
     },    
     {
       "name": "infoblox_ip_address",
@@ -121,7 +121,7 @@
       "hidden": false,
       "immutable": false,
       "group_name": "infoblox",
-      "default" : "${ipam.infoblox.infoblox_ip_address}"
+      "default" : "${infoblox.infoblox_ip_address}"
     },
     {
       "name": "infoblox_user",
@@ -133,7 +133,7 @@
       "hidden": false,
       "immutable": false,
       "group_name": "infoblox",
-      "default" : "${ipam.infoblox.infoblox_user}"
+      "default" : "${infoblox.infoblox_user}"
     },
     {
       "name": "infoblox_user_password",
@@ -145,7 +145,7 @@
       "hidden": false,
       "immutable": false,
       "group_name": "infoblox",
-      "default" : "${ipam.infoblox.infoblox_user_password}"
+      "default" : "${infoblox.infoblox_user_password}"
     },
     {
       "name": "network",
@@ -157,7 +157,7 @@
       "hidden": false,
       "immutable": false,
       "group_name": "infoblox",
-      "default" : "${ipam.infoblox.network}"
+      "default" : "${infoblox.network}"
     }
   ],
   "template_output_params": [
