@@ -1,5 +1,5 @@
 {
-    "name": "ipam.infoblox",
+    "name": "infoblox",
     "label": "Infoblox IPAM Server",
     "description": "Describes an Infoblox IPAM server and a specific network the system request next available IP address.",
     "attributes": [
