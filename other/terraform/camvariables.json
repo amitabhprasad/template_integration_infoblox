@@ -5,7 +5,7 @@
       "label": "Bastion Data"
     },
     {
-      "name": "ipam.infoblox",
+      "name": "infoblox",
       "label": "Infoblox IPAM Server"
     }
   ],    
